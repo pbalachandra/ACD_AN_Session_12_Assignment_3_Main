@@ -1,0 +1,46 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="#FFFFFF"
+    tools:context="com.acadgild.balu.acd_an_session_12_assignment_3_main.ButtonsFragment">
+
+    <Button
+        android:id="@+id/button_layout1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="left|center_vertical"
+        android:textStyle="bold"
+        android:text="@string/button1"
+        />
+
+    <Button
+        android:id="@+id/button_layout2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="left|center_vertical"
+        android:textStyle="bold"
+        android:text="@string/button2"
+         />
+
+    <Button
+        android:id="@+id/button_layout3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="left|center_vertical"
+        android:textStyle="bold"
+        android:text="@string/button3"
+        />
+
+    <Button
+        android:id="@+id/button_layout4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="left|center_vertical"
+        android:textStyle="bold"
+        android:text="@string/button4"
+         />
+
+</LinearLayout>

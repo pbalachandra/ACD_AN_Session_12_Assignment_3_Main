@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">List Fragment</string>
+    <string name="button1">Layout 1</string>
+    <string name="button2">Layout 2</string>
+    <string name="button3">Layout 3</string>
+    <string name="button4">Layout 4</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

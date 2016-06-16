@@ -1,0 +1,19 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#990000"
+    tools:context="com.acadgild.balu.acd_an_session_12_assignment_3_main.Layout1">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/button1"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_centerHorizontal="true"
+        android:textColor="#FFFFFF"
+        android:textSize="20sp"
+        android:textAlignment="center"
+        android:layout_marginTop="55dp" />
+
+</RelativeLayout>
